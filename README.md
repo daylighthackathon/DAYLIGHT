@@ -2,6 +2,9 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
+**OFFICIAL WORKING WEBSITE - https://daylighthackathon.github.io/**
+
+
 Daylight checks a CV against the public web. You give it a candidate's name and CV, and it returns a report that marks every claim as **verified**, **partial**, **contradicted** or **unverifiable**. Each verdict comes with a source URL and a word-for-word quote as evidence.
 
 It was built for the "From Dusk Till Dawn" AI agent hackathon (Social Media Deep Research track). It is a demo, not a production system. See [Security](#security) and [Known Limitations](#known-limitations).
